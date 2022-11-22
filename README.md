@@ -1,6 +1,8 @@
 # Personal Expenses Application
 
-Second application
+Second application of mine
+
+
 ![alt text](https://github.com/ErtDemir/Personal-Expenses-App/blob/master/SecondAppView.png?raw=true)
 
 
